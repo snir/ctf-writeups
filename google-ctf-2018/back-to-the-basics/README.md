@@ -8,5 +8,5 @@
 
 As suggested by the writer, we downloaded the VICE Commodore 64 emulator (which is an awesome project by itself). 
 
-[](0.png)
+![](0.png)
 
