@@ -135,3 +135,5 @@ After about an hour of manual work using some helper scripts and some guesses we
 
 (Since we didn't see any linked lists during the solve we think the intended solution was a bit different than ours :)
 
+
+5BC
